@@ -1,0 +1,8 @@
+Microsoft office 365 este o aplicatie de editare text, tabele si multe altele.
+Am folosit aceasta aplicatie adesea la locul de munca pentru completarea a numeroase documente cu informatii despre proiectele la care lucram.
+Termenul de ”Office 365” e folosit de Microsoft să denumească un abonament pentru produse clasice Microsoft Office și server-e pe care beneficiarul nu mai trebuie să le instaleze în interiorul rețelei. 
+Ele sunt gata configurate, pregătite de a fi folosite oricând, de oriunde. Exemple: pachetul clasic Microsoft Office (2013) ce include Word, Excel, PowerPoint, Outlook, OneNote plus diferite server-e (disponibile în funcție de tipul de abonament ales)
+Lync, Exchange Online, OneDrive, Skype.
+
+Adică în funcție de câți bani vrem să plătim, putem cumpăra un abonament (pe perioada de care avem nevoie de el, normal) în care primim licențele pentru produsele software clasice (ce pot fi instalate în funcție de abonamentul ales pe mai multe sisteme Widnows, Mac OS și Android, iOS, Windows Phone)
+plus niște servicii (email, colaborare, active directory, stocare în cloud) accesibile în cloud, fără să mai fie nevoie de configurări de server-e dedicate în rețeaua locală.
