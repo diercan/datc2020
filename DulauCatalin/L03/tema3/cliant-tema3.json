@@ -1,0 +1,7 @@
+{"installed":{
+    "client_id":"933833875292-bm3gucqa7lrl66lkbb9gicq9o2pn8htc.apps.googleusercontent.com",
+    "project_id":"datctema3","auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"Jz8lmXGBdgdcKMHS-tHxWa14",
+    "redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
